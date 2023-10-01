@@ -1,8 +1,9 @@
 # AutoClicker
 
-My first c# Project.
+My First C# Project.
 
-Changelog:
+# Changelog:
+<br>
 <br>2023-10-01
 <br>[+] Randomizer
 <br>[+] Boost Clicks
