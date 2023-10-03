@@ -3,7 +3,7 @@
 My First C# Project.
 
 # Changelog 2023-10-03:
-<br>[+] Keybinds
+[+] Keybinds
 <br>[+] Config Save
 
 # Changelog 2023-10-01:
