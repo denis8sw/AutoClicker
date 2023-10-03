@@ -3,7 +3,6 @@
 My First C# Project.
 
 # Changelog 2023-10-03:
-[+] Randomizer
 <br>[+] Keybinds
 <br>[+] Config Save
 
